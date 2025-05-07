@@ -1,0 +1,4 @@
+api_key=YOUR_API_KEY_HERE (from https://api.imgbb.com)
+image_path=C:/Users/User/Desktop/image-qr/image1.jpg
+qr_output_dir=C:/Users/User/Desktop/image-qr
+expiration=None
