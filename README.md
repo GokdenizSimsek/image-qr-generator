@@ -1,4 +1,4 @@
-# image-qr_generator
+# image-qr-generator
 Image Upload & QR Code Generator
 This project allows you to upload an image to an external hosting service (from https://api.imgbb.com) and automatically generate a QR code linking to the uploaded image.
 
